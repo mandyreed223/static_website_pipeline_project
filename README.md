@@ -145,7 +145,7 @@ The manual approval stage ensures **production safety and accountability**.
 ## 📂 Repository Structure
 ```text
 /
-├── index.html
+├── website.html
 └── README.md
 ```
 
